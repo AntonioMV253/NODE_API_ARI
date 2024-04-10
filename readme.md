@@ -1,6 +1,8 @@
-Muchas gracias por considerarme para la oferta, es mi primera vez realizando una api desde cero asi que esta sujeto a errores y fallos a nivel de logica aqui dejare el apartado de las api y como consultarlas
+<em>Muchas gracias por considerarme para la oferta, es mi primera vez realizando una api desde cero asi que esta sujeto a errores y fallos a nivel de logica aqui dejare el apartado de las api y como consultarlas</em>
 
+Comando para Inicializar proyecto: *"npm run dev"*
 
+METODOS EXISTENTES:
 Habitaciones Disponibles:
 
 Método: GET
@@ -39,4 +41,5 @@ Descripción: Permite realizar una revisión general de los registros en una tab
 Parámetros de ruta:
 tabla: El nombre de la tabla que deseas revisar.
 
-Aparte todo lo necesario para dicho proyecto y lo que utilice esta dentro de *package.json*
+Aparte todo lo necesario para dicho proyecto y lo que utilice esta dentro de *package.json* 
+Cambio minimo en readme.md 10/04/24 7:32 am
